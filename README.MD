@@ -1,0 +1,1 @@
+i an learning shell-script and about git

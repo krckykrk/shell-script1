@@ -8,3 +8,4 @@ echo "variable1: $VAR1"
 
 echo "all: $@"
 
+echo "nmuber of vars: $#"

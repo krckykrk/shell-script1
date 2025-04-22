@@ -6,7 +6,12 @@
 #done
 
 
+#for i in $@
+#do   
+#     yum install $i -y
+#done
+
 for i in $@
 do   
-     yum install $i -y
-done     
+     yum remove $i -y
+done

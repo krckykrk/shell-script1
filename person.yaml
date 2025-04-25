@@ -1,2 +1,8 @@
 name: ragu
 dob: 07-07-2000
+# this is map
+address:
+ city: sklm
+ country: india
+ doorno: 9208
+ street: ganesh nagar

@@ -1,8 +1,33 @@
-name: ragu
-dob: 07-07-2000
-# this is map
-address:
- city: sklm
- country: india
- doorno: 9208
- street: ganesh nagar
+- name: ragu
+  dob: 07-07-2000
+    # this is map
+  address:
+    city: sklm
+    country: india
+    doorno: 9208
+    street: ganesh nagar
+     # list of addresses
+  addresses:
+  - type: perm
+    city: hyd
+    country: india
+  - type: current
+    city: california
+    countr: US    
+#2nd person information
+- name: vinay
+  dob: 07-07-2000
+    # this is map
+  address:
+    city: sklm
+    country: india
+    doorno: 9208
+    street: ganesh nagar
+     # list of addresses
+  addresses:
+  - type: perm
+    city: hyd
+    country: india
+  - type: current
+    city: california
+    countr: US        
